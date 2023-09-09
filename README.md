@@ -4,27 +4,25 @@
 
 # Laravel Boilerplate
 
-Touch Star Follow package: https://github.com/byteplatform/byteplatform and  https://github.com/byteplatform/cms
+Touch Star Follow package: 
+* https://github.com/byteplatform/byteplatform
+* https://github.com/byteplatform/cms
 
 ## Feature(New):
 
--   Modules
--   Themes
--   Plugins
--   Actions
--   ShortCodes
--   CURD Base
--   Auth(User,Role,Permission)
--   Setting
+-   Pages
+-   Posts
+-   Catalogs
+-   Tags
+-   Comments
+-   Seo
 
 ## Technology used:
 
 -   Laravel 10x
 -   Livewire 3x
--   unisharp/laravel-filemanager 2.6
--   staudenmeir/eloquent-eager-limit 1.8.3
+-   BytePlatform/BytePlatform 1.0.
 -   Boostrap 5x
--   Tabler and Tabler-icon
 
 ## Requirements
 
@@ -93,7 +91,7 @@ $ php artisan mb:theme Demo3 -a true -t theme -f true
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-https://github.com/byteplatform/byteplatform/discussions
+https://github.com/byteplatform/cms/discussions
 
 Please make sure to update tests as appropriate.
 
