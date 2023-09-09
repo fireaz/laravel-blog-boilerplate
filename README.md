@@ -4,7 +4,7 @@
 
 # Laravel Boilerplate
 
-Touch Star Follow package: https://github.com/byteplatform/byteplatform
+Touch Star Follow package: https://github.com/byteplatform/byteplatform and  https://github.com/byteplatform/cms
 
 ## Feature(New):
 
